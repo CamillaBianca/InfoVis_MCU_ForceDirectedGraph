@@ -28,7 +28,7 @@ Durante la realizzazione del progetto sono stati assegnati i seguenti task, con 
 - **Inserimento nodi àncora**: tutti i nodi di tipo movies vengono collegati (tramite archi invisibili) ad un nodo fittizio (anch’esso invisibile) sulla sinistra. Lo stesso accade per tutti i nodi di tipo heroes, sulla destra. Lo scopo di questo task è enfatizzare la bipartizione del grafo.  
 [Inserimento nodi àncora](https://github.com/SimonePietrogiacomi/InfoVis_MCU_ForceDirectedGraph/tree/master/project/other_tries/inserimento_nodi_ancora)
 
-![Inserimento_nodi_àncora](https://github.com/SimonePietrogiacomi/InfoVis_MCU_ForceDirectedGraph/blob/master/img/drawing3.png)
+![Inserimento_nodi_àncora](https://github.com/SimonePietrogiacomi/InfoVis_MCU_ForceDirectedGraph/blob/master/img/drawing3.png?)
 
 - **Avvicinamento nodi appartenenti allo stesso cluster**: inserimento di archi di lunghezza ridotta tra tutti i nodi all’interno di uno stesso cluster. Lo scopo è avvicinare i nodi con vicinato simile e non sparpagliarli per tutto il grafo.  
 [Avvicinamento nodi appartenenti allo stesso cluster](https://github.com/SimonePietrogiacomi/InfoVis_MCU_ForceDirectedGraph/tree/master/project/other_tries/avvicinamento_nodi_stesso_cluster)
